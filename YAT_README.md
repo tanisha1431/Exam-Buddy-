@@ -1,6 +1,6 @@
 # HaXplore 2.0 - Submission Report Format
 
-This is the official code repository for _TEAM NAME_ . This _type of application_ was developed during HaXplore 2.0, 
+This is the official code repository for _YAT_ . This _type of application_ was developed during HaXplore 2.0, 
 the online hackathon conducted by Codefest, the annual departmental fest of Computer Science department, IIT BHU Varanasi.
 
 ### YAT
