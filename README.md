@@ -41,6 +41,6 @@ The bot will be deployed to the cloud on heroku for testing purposes so that the
 
 ## How to add the bot to your server 
 
- Go to our website  [exam-buddy](https://tanisha1431.github.io/ExamBuddy/main.html) and click on Learn more and add it to your server.
+<p> Go to our website  [exam-buddy](https://tanisha1431.github.io/ExamBuddy/main.html) and click on Learn more and add it to your server. </p>
 <img width="40%" src="https://cdn.discordapp.com/attachments/776153841288216607/825668215568465930/unknown.png"/>
 Now choose the server you want to add the bot to and get collaborating on your studies.
