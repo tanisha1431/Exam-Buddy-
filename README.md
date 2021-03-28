@@ -41,6 +41,23 @@ The bot will be deployed to the cloud on heroku for testing purposes so that the
 
 ## How to add the bot to your server 
 
-<p> Go to our website https://tanisha1431.github.io/ExamBuddy/main.html and click on Learn more and add it to your server. </p>
+<p align = "center"> Go to our website https://tanisha1431.github.io/ExamBuddy/main.html and click on Learn more and add it to your server. </p>
 <img width="40%" src="https://cdn.discordapp.com/attachments/776153841288216607/825668215568465930/unknown.png"/>
 Now choose the server you want to add the bot to and get collaborating on your studies.
+
+## How to use the bot 
+1.Use 
+```$addPic <tag1> <tag2>...```
+ to add the picture to the database 
+2. Use 
+```$getPic <tag1> <tag2>...```
+ to get the matching pics from the database 
+ 3. Use 
+```$addTags <tag1> <tag2>...```
+ as a reply to a pic shared by the bot to add tags 
+ 4.
+```$search```
+ and upload pic to get the search link 
+ 5. 
+```$read```
+ and upload pic to just read the text
