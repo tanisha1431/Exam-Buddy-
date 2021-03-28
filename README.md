@@ -46,18 +46,18 @@ The bot will be deployed to the cloud on heroku for testing purposes so that the
 Now choose the server you want to add the bot to and get collaborating on your studies.
 
 ## How to use the bot 
-1.Use 
-```$addPic <tag1> <tag2>...```
- to add the picture to the database 
-2. Use 
-```$getPic <tag1> <tag2>...```
- to get the matching pics from the database 
- 3. Use 
-```$addTags <tag1> <tag2>...```
- as a reply to a pic shared by the bot to add tags 
+1.Use \
+```$addPic <tag1> <tag2>...```\
+ to add the picture to the database\ 
+2. Use \
+```$getPic <tag1> <tag2>...```\
+ to get the matching pics from the database \
+ 3. Use \
+```$addTags <tag1> <tag2>...```\
+ as a reply to a pic shared by the bot to add tags \
  4.
-```$search```
- and upload pic to get the search link 
+```$search```\
+ and upload pic to get the search link \
  5. 
-```$read```
- and upload pic to just read the text
+```$read```\
+ and upload pic to just read the text\
