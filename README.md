@@ -61,3 +61,5 @@ Now choose the server you want to add the bot to and get collaborating on your s
  5. 
 ```$read```\
  and upload pic to just read the text\
+ 
+ Check out the video tutorial on using the bot at -> https://youtu.be/rW3pY9ClkFM
