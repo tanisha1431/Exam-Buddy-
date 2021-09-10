@@ -1,14 +1,4 @@
-# HaXplore 2.0 - Submission Report Format
 
-This is the official code repository for _YAT_ . This _type of application_ was developed during HaXplore 2.0, 
-the online hackathon conducted by Codefest, the annual departmental fest of Computer Science department, IIT BHU Varanasi.
-
-### YAT
-
-* Harshul
-* Tanisha
-* Aanchal
-* Yashasvi
 
 ## 📝 What's the problem that we're trying to solve and why?
 In a time where online classes is the norm individuals feel disconnected as they don't get to do the collaborative group studies which not only had the potential of improving the efficiency of studies but also take out the stress out of the minds of the individuals.
